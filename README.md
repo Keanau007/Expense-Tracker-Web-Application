@@ -8,9 +8,19 @@
 
 A sophisticated and responsive Expense Tracker application built with React and Tailwind CSS that allows users to effectively manage their personal finances. Track income and expenses, visualize spending patterns, categorize transactions, and maintain your financial data with a beautiful and intuitive interface.
 
-> **Note:** Add your application screenshot by saving an image as `demo-screenshot.png` in the public folder. This will replace the reference below.
 
-![Expense Tracker Demo](./public/demo-screenshot.png)
+## Preview Images
+![Image](https://github.com/user-attachments/assets/6b423a28-01b4-40fb-a403-b7522ee4a82b)
+![Image](https://github.com/user-attachments/assets/0e3aead8-d066-499c-8c3e-3f058d7027ca)
+![Image](https://github.com/user-attachments/assets/4efe75aa-7827-4c95-b9ce-0f2c42d7e6cd)
+![Image](https://github.com/user-attachments/assets/6ad4d15e-9f56-47b6-86a7-cf37573ef818)
+![Image](https://github.com/user-attachments/assets/7083574f-6bad-41d8-90bc-36b813e7f301)
+![Image](https://github.com/user-attachments/assets/66dc0f81-3267-4450-9f90-be889afa2852)
+
+
+
+
+
 
 ## ✨ Features
 
