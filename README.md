@@ -2,6 +2,7 @@
 
 ![Expense Tracker Banner](https://img.shields.io/badge/Expense%20Tracker-Financial%20Management-blue)
 ![React](https://img.shields.io/badge/React-18.0.0-61DAFB?logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.3.0-38B2AC?logo=tailwind-css)
 ![Chart.js](https://img.shields.io/badge/Chart.js-4.0.0-FF6384?logo=chart-dot-js)
 
